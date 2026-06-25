@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 440" width="1280" height="440" role="img" aria-label="AI Customer Acquisition — an agentic acquisition engine. Five agents take a budget and a CAC target, allocate it across channels with real optimization, build the creative and lifecycle, then reallocate on week-1 results. Codename Beacon. Synthetic data, runs offline.">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A0E1A"/>
+      <stop offset="1" stop-color="#070A12"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="82%" cy="-10%" r="62%">
+      <stop offset="0" stop-color="#FFC24B" stop-opacity="0.13"/>
+      <stop offset="1" stop-color="#FFC24B" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="4%" cy="2%" r="52%">
+      <stop offset="0" stop-color="#7AA2FF" stop-opacity="0.12"/>
+      <stop offset="1" stop-color="#7AA2FF" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E0A53A"/>
+      <stop offset="0.5" stop-color="#FFC24B"/>
+      <stop offset="1" stop-color="#FFD888"/>
+    </linearGradient>
+    <linearGradient id="title" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DCE4F4"/>
+    </linearGradient>
+    <clipPath id="frame"><rect width="1280" height="440"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1280" height="440" fill="url(#bg)"/>
+    <rect width="1280" height="440" fill="url(#glowA)"/>
+    <rect width="1280" height="440" fill="url(#glowB)"/>
+
+    <!-- technical grid -->
+    <g stroke="#FFFFFF" stroke-opacity="0.035">
+      <path d="M772 40 H1248 M772 86 H1248 M772 132 H1248 M772 178 H1248 M772 224 H1248 M772 270 H1248 M772 316 H1248"/>
+      <path d="M784 36 V352 M830 36 V352 M876 36 V352 M922 36 V352 M968 36 V352 M1014 36 V352 M1060 36 V352 M1106 36 V352 M1152 36 V352 M1198 36 V352 M1244 36 V352"/>
+    </g>
+
+    <rect x="0" y="0" width="1280" height="3" fill="url(#accent)"/>
+
+    <!-- eyebrow -->
+    <g transform="translate(74,100)">
+      <rect x="0" y="-9" width="9" height="9" rx="2" fill="#FFC24B"/>
+      <text x="20" y="0" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" letter-spacing="3" fill="#FFD888">AGENTIC ACQUISITION ENGINE · CODENAME BEACON</text>
+    </g>
+
+    <!-- title (two lines) -->
+    <text x="71" y="172" font-family="'Outfit','Segoe UI',system-ui,-apple-system,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="-1.2" fill="url(#title)">AI Customer</text>
+    <text x="71" y="234" font-family="'Outfit','Segoe UI',system-ui,-apple-system,Arial,sans-serif" font-size="62" font-weight="800" letter-spacing="-1.2" fill="url(#title)">Acquisition</text>
+    <rect x="76" y="250" width="188" height="5" rx="2.5" fill="url(#accent)"/>
+
+    <!-- tagline -->
+    <text x="75" y="288" font-family="'Segoe UI',system-ui,-apple-system,Arial,sans-serif" font-size="21" font-weight="500" fill="#C8D2E6">An agentic acquisition engine.</text>
+
+    <!-- chips -->
+    <g transform="translate(75,308)" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13">
+      <g>
+        <rect x="0" y="0" width="152" height="30" rx="15" fill="#0F1424" stroke="#FFC24B" stroke-opacity="0.45"/>
+        <circle cx="18" cy="15" r="4" fill="#FFC24B"/>
+        <text x="31" y="19" fill="#EFE0C4">Budget allocation</text>
+      </g>
+      <g transform="translate(164,0)">
+        <rect x="0" y="0" width="138" height="30" rx="15" fill="#0F1424" stroke="#7AA2FF" stroke-opacity="0.45"/>
+        <circle cx="18" cy="15" r="4" fill="#7AA2FF"/>
+        <text x="31" y="19" fill="#D4DEF6">Creative matrix</text>
+      </g>
+      <g transform="translate(314,0)">
+        <rect x="0" y="0" width="182" height="30" rx="15" fill="#0F1424" stroke="#5EEAD4" stroke-opacity="0.45"/>
+        <circle cx="18" cy="15" r="4" fill="#5EEAD4"/>
+        <text x="31" y="19" fill="#CDEDE6">Week-1 reallocation</text>
+      </g>
+    </g>
+
+    <!-- ===== right: channel allocation ===== -->
+    <text x="798" y="116" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" letter-spacing="1.5" fill="#E0A53A">ALLOCATION · $50K · CAC $321</text>
+    <g font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11.5">
+      <!-- rows: label (end at 930), track 942..1192, value at 1202 -->
+      <g><text x="930" y="143" text-anchor="end" fill="#9FB0CC">Paid Social</text><rect x="942" y="134" width="250" height="13" rx="3" fill="#151B30"/><rect x="942" y="134" width="250" height="13" rx="3" fill="#B49CFF"/><text x="1202" y="144" fill="#C9B8FF">$18K</text></g>
+      <g><text x="930" y="175" text-anchor="end" fill="#9FB0CC">Paid Search</text><rect x="942" y="166" width="250" height="13" rx="3" fill="#151B30"/><rect x="942" y="166" width="172" height="13" rx="3" fill="#7AA2FF"/><text x="1202" y="176" fill="#A9C2FF">$12K</text></g>
+      <g><text x="930" y="207" text-anchor="end" fill="#9FB0CC">Content</text><rect x="942" y="198" width="250" height="13" rx="3" fill="#151B30"/><rect x="942" y="198" width="132" height="13" rx="3" fill="#5EEAD4"/><text x="1202" y="208" fill="#9DE6DA">$9K</text></g>
+      <g><text x="930" y="239" text-anchor="end" fill="#9FB0CC">Email</text><rect x="942" y="230" width="250" height="13" rx="3" fill="#151B30"/><rect x="942" y="230" width="92" height="13" rx="3" fill="#FFC24B"/><text x="1202" y="240" fill="#FFD888">$6K</text></g>
+      <g><text x="930" y="271" text-anchor="end" fill="#9FB0CC">Display</text><rect x="942" y="262" width="250" height="13" rx="3" fill="#151B30"/><rect x="942" y="262" width="72" height="13" rx="3" fill="#F58E8E"/><text x="1202" y="272" fill="#F7AEAE">$5K</text></g>
+    </g>
+
+    <!-- reallocation chip -->
+    <g transform="translate(798,300)">
+      <rect x="0" y="0" width="338" height="34" rx="10" fill="#0F1424" stroke="#FFC24B" stroke-opacity="0.5"/>
+      <text x="16" y="22" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12.5" fill="#EBDFC6">WEEK 1 &#8594; <tspan fill="#9FB0CC">156</tspan> &#8594; <tspan fill="#34D399" font-weight="700">168</tspan> qualified · same $50K</text>
+    </g>
+
+    <!-- bottom ribbon -->
+    <rect x="0" y="392" width="1280" height="48" fill="#090C16"/>
+    <rect x="0" y="392" width="1280" height="1" fill="#FFC24B" fill-opacity="0.16"/>
+    <text x="75" y="421" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" letter-spacing="1.2" fill="#8F9CB0">Built by Varun Kulkarni · synthetic data · runs offline · no API keys</text>
+    <g transform="translate(1088,404)">
+      <rect x="0" y="0" width="118" height="24" rx="12" fill="#0F1424" stroke="#FFC24B" stroke-opacity="0.4"/>
+      <text x="59" y="16" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" fill="#FFD888">npm run dev</text>
+    </g>
+  </g>
+</svg>

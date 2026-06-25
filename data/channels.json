@@ -1,0 +1,4675 @@
+{
+  "meta": {
+    "product": "Northwind",
+    "tagline": "The business bank built for founders.",
+    "generatedAt": "2026-06-16T09:00:00.000Z",
+    "seed": 71777,
+    "days": 90,
+    "startDate": "2026-03-18",
+    "endDate": "2026-06-15",
+    "defaultBudget": 50000,
+    "defaultTargetCac": 650,
+    "icp": "Venture-backed and bootstrapped startups, 2–50 employees, United States."
+  },
+  "channels": [
+    {
+      "key": "paid_search",
+      "label": "Paid search",
+      "blurb": "Google high-intent keywords (business banking, startup account)",
+      "color": "#7AA2FF",
+      "cap": 260,
+      "half": 40000,
+      "qualRate": 0.5,
+      "ltv": 6500,
+      "marginRate": 0.7,
+      "segmentMix": {
+        "vc_backed": 0.45,
+        "bootstrapped": 0.55
+      },
+      "spend90": 57393,
+      "signups90": 249,
+      "qualified90": 125,
+      "clicks90": 12776,
+      "impressions90": 283714,
+      "cac": 230.49,
+      "qualifiedCac": 459.14
+    },
+    {
+      "key": "paid_social",
+      "label": "Paid social",
+      "blurb": "LinkedIn + X — founder & finance-lead targeting",
+      "color": "#B49CFF",
+      "cap": 520,
+      "half": 70000,
+      "qualRate": 0.42,
+      "ltv": 5200,
+      "marginRate": 0.68,
+      "segmentMix": {
+        "vc_backed": 0.5,
+        "bootstrapped": 0.5
+      },
+      "spend90": 67335,
+      "signups90": 379,
+      "qualified90": 159,
+      "clicks90": 11233,
+      "impressions90": 932595,
+      "cac": 177.66,
+      "qualifiedCac": 423.49
+    },
+    {
+      "key": "content_seo",
+      "label": "Content / SEO",
+      "blurb": "Founder finance guides, runway calculators, comparison pages",
+      "color": "#5EEAD4",
+      "cap": 120,
+      "half": 8000,
+      "qualRate": 0.6,
+      "ltv": 7000,
+      "marginRate": 0.72,
+      "segmentMix": {
+        "vc_backed": 0.35,
+        "bootstrapped": 0.65
+      },
+      "spend90": 18910,
+      "signups90": 167,
+      "qualified90": 100,
+      "clicks90": 15749,
+      "impressions90": 197375,
+      "cac": 113.23,
+      "qualifiedCac": 189.1
+    },
+    {
+      "key": "lifecycle_email",
+      "label": "Lifecycle email",
+      "blurb": "Nurture of existing leads & waitlist to activation",
+      "color": "#FFC24B",
+      "cap": 70,
+      "half": 2500,
+      "qualRate": 0.7,
+      "ltv": 5800,
+      "marginRate": 0.7,
+      "segmentMix": {
+        "vc_backed": 0.4,
+        "bootstrapped": 0.6
+      },
+      "spend90": 6380,
+      "signups90": 90,
+      "qualified90": 63,
+      "clicks90": 21297,
+      "impressions90": 96452,
+      "cac": 70.89,
+      "qualifiedCac": 101.27
+    },
+    {
+      "key": "partnerships",
+      "label": "Partnerships",
+      "blurb": "Accelerators, VC platform teams, founder communities",
+      "color": "#F58E8E",
+      "cap": 180,
+      "half": 60000,
+      "qualRate": 0.66,
+      "ltv": 9500,
+      "marginRate": 0.74,
+      "segmentMix": {
+        "vc_backed": 0.7,
+        "bootstrapped": 0.3
+      },
+      "spend90": 28636,
+      "signups90": 90,
+      "qualified90": 59,
+      "clicks90": 2376,
+      "impressions90": 78823,
+      "cac": 318.18,
+      "qualifiedCac": 485.36
+    }
+  ],
+  "daily": [
+    {
+      "date": "2026-03-18",
+      "dayIndex": 0,
+      "channel": "paid_search",
+      "spend": 605,
+      "impressions": 2826,
+      "clicks": 133,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-19",
+      "dayIndex": 1,
+      "channel": "paid_search",
+      "spend": 657,
+      "impressions": 3237,
+      "clicks": 139,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-20",
+      "dayIndex": 2,
+      "channel": "paid_search",
+      "spend": 662,
+      "impressions": 3155,
+      "clicks": 140,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-21",
+      "dayIndex": 3,
+      "channel": "paid_search",
+      "spend": 533,
+      "impressions": 2627,
+      "clicks": 121,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-22",
+      "dayIndex": 4,
+      "channel": "paid_search",
+      "spend": 496,
+      "impressions": 2408,
+      "clicks": 111,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-23",
+      "dayIndex": 5,
+      "channel": "paid_search",
+      "spend": 634,
+      "impressions": 3233,
+      "clicks": 146,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-24",
+      "dayIndex": 6,
+      "channel": "paid_search",
+      "spend": 674,
+      "impressions": 3413,
+      "clicks": 153,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-25",
+      "dayIndex": 7,
+      "channel": "paid_search",
+      "spend": 662,
+      "impressions": 3128,
+      "clicks": 142,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-26",
+      "dayIndex": 8,
+      "channel": "paid_search",
+      "spend": 626,
+      "impressions": 3090,
+      "clicks": 141,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-27",
+      "dayIndex": 9,
+      "channel": "paid_search",
+      "spend": 694,
+      "impressions": 3382,
+      "clicks": 156,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-28",
+      "dayIndex": 10,
+      "channel": "paid_search",
+      "spend": 475,
+      "impressions": 2473,
+      "clicks": 110,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-29",
+      "dayIndex": 11,
+      "channel": "paid_search",
+      "spend": 488,
+      "impressions": 2393,
+      "clicks": 104,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-30",
+      "dayIndex": 12,
+      "channel": "paid_search",
+      "spend": 644,
+      "impressions": 3366,
+      "clicks": 148,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-31",
+      "dayIndex": 13,
+      "channel": "paid_search",
+      "spend": 682,
+      "impressions": 3334,
+      "clicks": 153,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-01",
+      "dayIndex": 14,
+      "channel": "paid_search",
+      "spend": 685,
+      "impressions": 3396,
+      "clicks": 147,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-02",
+      "dayIndex": 15,
+      "channel": "paid_search",
+      "spend": 696,
+      "impressions": 3292,
+      "clicks": 155,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-03",
+      "dayIndex": 16,
+      "channel": "paid_search",
+      "spend": 607,
+      "impressions": 2739,
+      "clicks": 129,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-04",
+      "dayIndex": 17,
+      "channel": "paid_search",
+      "spend": 497,
+      "impressions": 2620,
+      "clicks": 116,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-05",
+      "dayIndex": 18,
+      "channel": "paid_search",
+      "spend": 503,
+      "impressions": 2367,
+      "clicks": 112,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-06",
+      "dayIndex": 19,
+      "channel": "paid_search",
+      "spend": 664,
+      "impressions": 3429,
+      "clicks": 147,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-07",
+      "dayIndex": 20,
+      "channel": "paid_search",
+      "spend": 678,
+      "impressions": 3201,
+      "clicks": 145,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-08",
+      "dayIndex": 21,
+      "channel": "paid_search",
+      "spend": 647,
+      "impressions": 3410,
+      "clicks": 149,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-09",
+      "dayIndex": 22,
+      "channel": "paid_search",
+      "spend": 634,
+      "impressions": 3123,
+      "clicks": 142,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-10",
+      "dayIndex": 23,
+      "channel": "paid_search",
+      "spend": 685,
+      "impressions": 3509,
+      "clicks": 156,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-11",
+      "dayIndex": 24,
+      "channel": "paid_search",
+      "spend": 471,
+      "impressions": 2332,
+      "clicks": 101,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-12",
+      "dayIndex": 25,
+      "channel": "paid_search",
+      "spend": 531,
+      "impressions": 2758,
+      "clicks": 119,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-13",
+      "dayIndex": 26,
+      "channel": "paid_search",
+      "spend": 667,
+      "impressions": 3356,
+      "clicks": 152,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-14",
+      "dayIndex": 27,
+      "channel": "paid_search",
+      "spend": 696,
+      "impressions": 3401,
+      "clicks": 159,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-15",
+      "dayIndex": 28,
+      "channel": "paid_search",
+      "spend": 663,
+      "impressions": 3339,
+      "clicks": 153,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-16",
+      "dayIndex": 29,
+      "channel": "paid_search",
+      "spend": 656,
+      "impressions": 3403,
+      "clicks": 152,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-17",
+      "dayIndex": 30,
+      "channel": "paid_search",
+      "spend": 681,
+      "impressions": 3194,
+      "clicks": 145,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-18",
+      "dayIndex": 31,
+      "channel": "paid_search",
+      "spend": 472,
+      "impressions": 2216,
+      "clicks": 101,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-19",
+      "dayIndex": 32,
+      "channel": "paid_search",
+      "spend": 516,
+      "impressions": 2498,
+      "clicks": 115,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-20",
+      "dayIndex": 33,
+      "channel": "paid_search",
+      "spend": 637,
+      "impressions": 3117,
+      "clicks": 143,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-21",
+      "dayIndex": 34,
+      "channel": "paid_search",
+      "spend": 696,
+      "impressions": 3200,
+      "clicks": 149,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-22",
+      "dayIndex": 35,
+      "channel": "paid_search",
+      "spend": 704,
+      "impressions": 3485,
+      "clicks": 153,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-23",
+      "dayIndex": 36,
+      "channel": "paid_search",
+      "spend": 662,
+      "impressions": 3447,
+      "clicks": 151,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-24",
+      "dayIndex": 37,
+      "channel": "paid_search",
+      "spend": 671,
+      "impressions": 3427,
+      "clicks": 156,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-25",
+      "dayIndex": 38,
+      "channel": "paid_search",
+      "spend": 478,
+      "impressions": 2540,
+      "clicks": 110,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-26",
+      "dayIndex": 39,
+      "channel": "paid_search",
+      "spend": 495,
+      "impressions": 2526,
+      "clicks": 111,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-27",
+      "dayIndex": 40,
+      "channel": "paid_search",
+      "spend": 730,
+      "impressions": 3561,
+      "clicks": 160,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-28",
+      "dayIndex": 41,
+      "channel": "paid_search",
+      "spend": 630,
+      "impressions": 3050,
+      "clicks": 134,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-29",
+      "dayIndex": 42,
+      "channel": "paid_search",
+      "spend": 714,
+      "impressions": 3442,
+      "clicks": 162,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-30",
+      "dayIndex": 43,
+      "channel": "paid_search",
+      "spend": 663,
+      "impressions": 3428,
+      "clicks": 153,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-01",
+      "dayIndex": 44,
+      "channel": "paid_search",
+      "spend": 727,
+      "impressions": 3645,
+      "clicks": 163,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-02",
+      "dayIndex": 45,
+      "channel": "paid_search",
+      "spend": 503,
+      "impressions": 2628,
+      "clicks": 115,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-03",
+      "dayIndex": 46,
+      "channel": "paid_search",
+      "spend": 558,
+      "impressions": 2732,
+      "clicks": 126,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-04",
+      "dayIndex": 47,
+      "channel": "paid_search",
+      "spend": 701,
+      "impressions": 3303,
+      "clicks": 156,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-05",
+      "dayIndex": 48,
+      "channel": "paid_search",
+      "spend": 671,
+      "impressions": 3120,
+      "clicks": 147,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-06",
+      "dayIndex": 49,
+      "channel": "paid_search",
+      "spend": 722,
+      "impressions": 3718,
+      "clicks": 166,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-07",
+      "dayIndex": 50,
+      "channel": "paid_search",
+      "spend": 734,
+      "impressions": 3273,
+      "clicks": 155,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-08",
+      "dayIndex": 51,
+      "channel": "paid_search",
+      "spend": 690,
+      "impressions": 3341,
+      "clicks": 157,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-09",
+      "dayIndex": 52,
+      "channel": "paid_search",
+      "spend": 554,
+      "impressions": 2621,
+      "clicks": 121,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-10",
+      "dayIndex": 53,
+      "channel": "paid_search",
+      "spend": 557,
+      "impressions": 2797,
+      "clicks": 125,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-11",
+      "dayIndex": 54,
+      "channel": "paid_search",
+      "spend": 646,
+      "impressions": 3143,
+      "clicks": 139,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-12",
+      "dayIndex": 55,
+      "channel": "paid_search",
+      "spend": 736,
+      "impressions": 3594,
+      "clicks": 162,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-13",
+      "dayIndex": 56,
+      "channel": "paid_search",
+      "spend": 730,
+      "impressions": 3612,
+      "clicks": 161,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-14",
+      "dayIndex": 57,
+      "channel": "paid_search",
+      "spend": 742,
+      "impressions": 3352,
+      "clicks": 158,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-15",
+      "dayIndex": 58,
+      "channel": "paid_search",
+      "spend": 639,
+      "impressions": 3235,
+      "clicks": 145,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-16",
+      "dayIndex": 59,
+      "channel": "paid_search",
+      "spend": 571,
+      "impressions": 2822,
+      "clicks": 124,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-17",
+      "dayIndex": 60,
+      "channel": "paid_search",
+      "spend": 527,
+      "impressions": 2645,
+      "clicks": 114,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-18",
+      "dayIndex": 61,
+      "channel": "paid_search",
+      "spend": 676,
+      "impressions": 3136,
+      "clicks": 147,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-19",
+      "dayIndex": 62,
+      "channel": "paid_search",
+      "spend": 744,
+      "impressions": 3427,
+      "clicks": 160,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-20",
+      "dayIndex": 63,
+      "channel": "paid_search",
+      "spend": 730,
+      "impressions": 3833,
+      "clicks": 165,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-21",
+      "dayIndex": 64,
+      "channel": "paid_search",
+      "spend": 676,
+      "impressions": 3102,
+      "clicks": 144,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-22",
+      "dayIndex": 65,
+      "channel": "paid_search",
+      "spend": 732,
+      "impressions": 3560,
+      "clicks": 159,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-23",
+      "dayIndex": 66,
+      "channel": "paid_search",
+      "spend": 577,
+      "impressions": 2859,
+      "clicks": 126,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-24",
+      "dayIndex": 67,
+      "channel": "paid_search",
+      "spend": 507,
+      "impressions": 2699,
+      "clicks": 116,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-25",
+      "dayIndex": 68,
+      "channel": "paid_search",
+      "spend": 696,
+      "impressions": 3299,
+      "clicks": 156,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-26",
+      "dayIndex": 69,
+      "channel": "paid_search",
+      "spend": 733,
+      "impressions": 3850,
+      "clicks": 170,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-27",
+      "dayIndex": 70,
+      "channel": "paid_search",
+      "spend": 712,
+      "impressions": 3321,
+      "clicks": 156,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-28",
+      "dayIndex": 71,
+      "channel": "paid_search",
+      "spend": 726,
+      "impressions": 3752,
+      "clicks": 168,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-29",
+      "dayIndex": 72,
+      "channel": "paid_search",
+      "spend": 716,
+      "impressions": 3668,
+      "clicks": 164,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-30",
+      "dayIndex": 73,
+      "channel": "paid_search",
+      "spend": 537,
+      "impressions": 2564,
+      "clicks": 115,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-31",
+      "dayIndex": 74,
+      "channel": "paid_search",
+      "spend": 536,
+      "impressions": 2876,
+      "clicks": 124,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-01",
+      "dayIndex": 75,
+      "channel": "paid_search",
+      "spend": 727,
+      "impressions": 3587,
+      "clicks": 166,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-02",
+      "dayIndex": 76,
+      "channel": "paid_search",
+      "spend": 655,
+      "impressions": 3516,
+      "clicks": 152,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-03",
+      "dayIndex": 77,
+      "channel": "paid_search",
+      "spend": 705,
+      "impressions": 3624,
+      "clicks": 156,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-04",
+      "dayIndex": 78,
+      "channel": "paid_search",
+      "spend": 728,
+      "impressions": 3650,
+      "clicks": 159,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-05",
+      "dayIndex": 79,
+      "channel": "paid_search",
+      "spend": 718,
+      "impressions": 3533,
+      "clicks": 161,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-06",
+      "dayIndex": 80,
+      "channel": "paid_search",
+      "spend": 501,
+      "impressions": 2642,
+      "clicks": 117,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-07",
+      "dayIndex": 81,
+      "channel": "paid_search",
+      "spend": 528,
+      "impressions": 2522,
+      "clicks": 112,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-08",
+      "dayIndex": 82,
+      "channel": "paid_search",
+      "spend": 683,
+      "impressions": 3196,
+      "clicks": 151,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-09",
+      "dayIndex": 83,
+      "channel": "paid_search",
+      "spend": 721,
+      "impressions": 3774,
+      "clicks": 166,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-10",
+      "dayIndex": 84,
+      "channel": "paid_search",
+      "spend": 691,
+      "impressions": 3199,
+      "clicks": 149,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-11",
+      "dayIndex": 85,
+      "channel": "paid_search",
+      "spend": 712,
+      "impressions": 3734,
+      "clicks": 161,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-12",
+      "dayIndex": 86,
+      "channel": "paid_search",
+      "spend": 707,
+      "impressions": 3567,
+      "clicks": 163,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-13",
+      "dayIndex": 87,
+      "channel": "paid_search",
+      "spend": 510,
+      "impressions": 2716,
+      "clicks": 117,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-14",
+      "dayIndex": 88,
+      "channel": "paid_search",
+      "spend": 540,
+      "impressions": 2646,
+      "clicks": 120,
+      "signups": 3,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-15",
+      "dayIndex": 89,
+      "channel": "paid_search",
+      "spend": 700,
+      "impressions": 3410,
+      "clicks": 148,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-18",
+      "dayIndex": 0,
+      "channel": "paid_social",
+      "spend": 821,
+      "impressions": 11446,
+      "clicks": 137,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-19",
+      "dayIndex": 1,
+      "channel": "paid_social",
+      "spend": 832,
+      "impressions": 10947,
+      "clicks": 138,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-20",
+      "dayIndex": 2,
+      "channel": "paid_social",
+      "spend": 828,
+      "impressions": 12122,
+      "clicks": 140,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-21",
+      "dayIndex": 3,
+      "channel": "paid_social",
+      "spend": 521,
+      "impressions": 7319,
+      "clicks": 88,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-22",
+      "dayIndex": 4,
+      "channel": "paid_social",
+      "spend": 529,
+      "impressions": 6988,
+      "clicks": 86,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-23",
+      "dayIndex": 5,
+      "channel": "paid_social",
+      "spend": 753,
+      "impressions": 10210,
+      "clicks": 123,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-24",
+      "dayIndex": 6,
+      "channel": "paid_social",
+      "spend": 739,
+      "impressions": 10227,
+      "clicks": 123,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-25",
+      "dayIndex": 7,
+      "channel": "paid_social",
+      "spend": 731,
+      "impressions": 9885,
+      "clicks": 123,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-26",
+      "dayIndex": 8,
+      "channel": "paid_social",
+      "spend": 821,
+      "impressions": 11609,
+      "clicks": 143,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-27",
+      "dayIndex": 9,
+      "channel": "paid_social",
+      "spend": 785,
+      "impressions": 10616,
+      "clicks": 129,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-28",
+      "dayIndex": 10,
+      "channel": "paid_social",
+      "spend": 492,
+      "impressions": 6883,
+      "clicks": 83,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-29",
+      "dayIndex": 11,
+      "channel": "paid_social",
+      "spend": 536,
+      "impressions": 7242,
+      "clicks": 87,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-30",
+      "dayIndex": 12,
+      "channel": "paid_social",
+      "spend": 791,
+      "impressions": 10321,
+      "clicks": 130,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-31",
+      "dayIndex": 13,
+      "channel": "paid_social",
+      "spend": 819,
+      "impressions": 11095,
+      "clicks": 131,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-01",
+      "dayIndex": 14,
+      "channel": "paid_social",
+      "spend": 782,
+      "impressions": 10964,
+      "clicks": 129,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-02",
+      "dayIndex": 15,
+      "channel": "paid_social",
+      "spend": 845,
+      "impressions": 12154,
+      "clicks": 144,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-03",
+      "dayIndex": 16,
+      "channel": "paid_social",
+      "spend": 742,
+      "impressions": 10011,
+      "clicks": 121,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-04",
+      "dayIndex": 17,
+      "channel": "paid_social",
+      "spend": 538,
+      "impressions": 8042,
+      "clicks": 92,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-05",
+      "dayIndex": 18,
+      "channel": "paid_social",
+      "spend": 494,
+      "impressions": 7340,
+      "clicks": 84,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-06",
+      "dayIndex": 19,
+      "channel": "paid_social",
+      "spend": 747,
+      "impressions": 9860,
+      "clicks": 123,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-07",
+      "dayIndex": 20,
+      "channel": "paid_social",
+      "spend": 827,
+      "impressions": 11422,
+      "clicks": 141,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-08",
+      "dayIndex": 21,
+      "channel": "paid_social",
+      "spend": 752,
+      "impressions": 10043,
+      "clicks": 123,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-09",
+      "dayIndex": 22,
+      "channel": "paid_social",
+      "spend": 754,
+      "impressions": 11097,
+      "clicks": 128,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-10",
+      "dayIndex": 23,
+      "channel": "paid_social",
+      "spend": 835,
+      "impressions": 11146,
+      "clicks": 139,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-11",
+      "dayIndex": 24,
+      "channel": "paid_social",
+      "spend": 495,
+      "impressions": 7166,
+      "clicks": 86,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-12",
+      "dayIndex": 25,
+      "channel": "paid_social",
+      "spend": 548,
+      "impressions": 7399,
+      "clicks": 89,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-13",
+      "dayIndex": 26,
+      "channel": "paid_social",
+      "spend": 827,
+      "impressions": 11441,
+      "clicks": 134,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-14",
+      "dayIndex": 27,
+      "channel": "paid_social",
+      "spend": 850,
+      "impressions": 11607,
+      "clicks": 141,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-15",
+      "dayIndex": 28,
+      "channel": "paid_social",
+      "spend": 752,
+      "impressions": 10662,
+      "clicks": 123,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-16",
+      "dayIndex": 29,
+      "channel": "paid_social",
+      "spend": 871,
+      "impressions": 11571,
+      "clicks": 138,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-17",
+      "dayIndex": 30,
+      "channel": "paid_social",
+      "spend": 843,
+      "impressions": 11478,
+      "clicks": 143,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-18",
+      "dayIndex": 31,
+      "channel": "paid_social",
+      "spend": 505,
+      "impressions": 7064,
+      "clicks": 86,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-19",
+      "dayIndex": 32,
+      "channel": "paid_social",
+      "spend": 514,
+      "impressions": 6732,
+      "clicks": 85,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-20",
+      "dayIndex": 33,
+      "channel": "paid_social",
+      "spend": 862,
+      "impressions": 11786,
+      "clicks": 137,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-21",
+      "dayIndex": 34,
+      "channel": "paid_social",
+      "spend": 869,
+      "impressions": 11936,
+      "clicks": 141,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-22",
+      "dayIndex": 35,
+      "channel": "paid_social",
+      "spend": 805,
+      "impressions": 10869,
+      "clicks": 127,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-23",
+      "dayIndex": 36,
+      "channel": "paid_social",
+      "spend": 849,
+      "impressions": 11269,
+      "clicks": 136,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-24",
+      "dayIndex": 37,
+      "channel": "paid_social",
+      "spend": 818,
+      "impressions": 11104,
+      "clicks": 137,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-25",
+      "dayIndex": 38,
+      "channel": "paid_social",
+      "spend": 543,
+      "impressions": 7549,
+      "clicks": 87,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-26",
+      "dayIndex": 39,
+      "channel": "paid_social",
+      "spend": 579,
+      "impressions": 7967,
+      "clicks": 96,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-27",
+      "dayIndex": 40,
+      "channel": "paid_social",
+      "spend": 885,
+      "impressions": 12389,
+      "clicks": 149,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-28",
+      "dayIndex": 41,
+      "channel": "paid_social",
+      "spend": 879,
+      "impressions": 12071,
+      "clicks": 151,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-29",
+      "dayIndex": 42,
+      "channel": "paid_social",
+      "spend": 852,
+      "impressions": 11595,
+      "clicks": 140,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-04-30",
+      "dayIndex": 43,
+      "channel": "paid_social",
+      "spend": 870,
+      "impressions": 11190,
+      "clicks": 141,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-01",
+      "dayIndex": 44,
+      "channel": "paid_social",
+      "spend": 857,
+      "impressions": 11793,
+      "clicks": 148,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-02",
+      "dayIndex": 45,
+      "channel": "paid_social",
+      "spend": 570,
+      "impressions": 8077,
+      "clicks": 96,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-03",
+      "dayIndex": 46,
+      "channel": "paid_social",
+      "spend": 588,
+      "impressions": 7787,
+      "clicks": 97,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-04",
+      "dayIndex": 47,
+      "channel": "paid_social",
+      "spend": 785,
+      "impressions": 10226,
+      "clicks": 129,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-05",
+      "dayIndex": 48,
+      "channel": "paid_social",
+      "spend": 790,
+      "impressions": 10250,
+      "clicks": 128,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-06",
+      "dayIndex": 49,
+      "channel": "paid_social",
+      "spend": 847,
+      "impressions": 11517,
+      "clicks": 139,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-07",
+      "dayIndex": 50,
+      "channel": "paid_social",
+      "spend": 882,
+      "impressions": 12541,
+      "clicks": 148,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-08",
+      "dayIndex": 51,
+      "channel": "paid_social",
+      "spend": 876,
+      "impressions": 12292,
+      "clicks": 148,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-09",
+      "dayIndex": 52,
+      "channel": "paid_social",
+      "spend": 509,
+      "impressions": 7210,
+      "clicks": 87,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-10",
+      "dayIndex": 53,
+      "channel": "paid_social",
+      "spend": 538,
+      "impressions": 8111,
+      "clicks": 94,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-11",
+      "dayIndex": 54,
+      "channel": "paid_social",
+      "spend": 838,
+      "impressions": 11695,
+      "clicks": 140,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-12",
+      "dayIndex": 55,
+      "channel": "paid_social",
+      "spend": 871,
+      "impressions": 12063,
+      "clicks": 151,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-13",
+      "dayIndex": 56,
+      "channel": "paid_social",
+      "spend": 780,
+      "impressions": 10887,
+      "clicks": 134,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-14",
+      "dayIndex": 57,
+      "channel": "paid_social",
+      "spend": 860,
+      "impressions": 12295,
+      "clicks": 148,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-15",
+      "dayIndex": 58,
+      "channel": "paid_social",
+      "spend": 804,
+      "impressions": 11963,
+      "clicks": 137,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-16",
+      "dayIndex": 59,
+      "channel": "paid_social",
+      "spend": 559,
+      "impressions": 8019,
+      "clicks": 94,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-17",
+      "dayIndex": 60,
+      "channel": "paid_social",
+      "spend": 580,
+      "impressions": 8356,
+      "clicks": 98,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-18",
+      "dayIndex": 61,
+      "channel": "paid_social",
+      "spend": 806,
+      "impressions": 10692,
+      "clicks": 135,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-19",
+      "dayIndex": 62,
+      "channel": "paid_social",
+      "spend": 848,
+      "impressions": 11725,
+      "clicks": 143,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-20",
+      "dayIndex": 63,
+      "channel": "paid_social",
+      "spend": 907,
+      "impressions": 12795,
+      "clicks": 149,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-21",
+      "dayIndex": 64,
+      "channel": "paid_social",
+      "spend": 871,
+      "impressions": 11431,
+      "clicks": 144,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-22",
+      "dayIndex": 65,
+      "channel": "paid_social",
+      "spend": 888,
+      "impressions": 11727,
+      "clicks": 148,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-23",
+      "dayIndex": 66,
+      "channel": "paid_social",
+      "spend": 534,
+      "impressions": 7215,
+      "clicks": 91,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-24",
+      "dayIndex": 67,
+      "channel": "paid_social",
+      "spend": 529,
+      "impressions": 7537,
+      "clicks": 89,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-25",
+      "dayIndex": 68,
+      "channel": "paid_social",
+      "spend": 800,
+      "impressions": 11920,
+      "clicks": 138,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-26",
+      "dayIndex": 69,
+      "channel": "paid_social",
+      "spend": 890,
+      "impressions": 12871,
+      "clicks": 155,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-27",
+      "dayIndex": 70,
+      "channel": "paid_social",
+      "spend": 833,
+      "impressions": 12083,
+      "clicks": 142,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-28",
+      "dayIndex": 71,
+      "channel": "paid_social",
+      "spend": 795,
+      "impressions": 10843,
+      "clicks": 131,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-29",
+      "dayIndex": 72,
+      "channel": "paid_social",
+      "spend": 868,
+      "impressions": 12694,
+      "clicks": 147,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-05-30",
+      "dayIndex": 73,
+      "channel": "paid_social",
+      "spend": 542,
+      "impressions": 7197,
+      "clicks": 87,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-31",
+      "dayIndex": 74,
+      "channel": "paid_social",
+      "spend": 530,
+      "impressions": 7345,
+      "clicks": 87,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-01",
+      "dayIndex": 75,
+      "channel": "paid_social",
+      "spend": 911,
+      "impressions": 12141,
+      "clicks": 146,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-02",
+      "dayIndex": 76,
+      "channel": "paid_social",
+      "spend": 843,
+      "impressions": 11688,
+      "clicks": 136,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-03",
+      "dayIndex": 77,
+      "channel": "paid_social",
+      "spend": 932,
+      "impressions": 13919,
+      "clicks": 161,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-04",
+      "dayIndex": 78,
+      "channel": "paid_social",
+      "spend": 870,
+      "impressions": 12272,
+      "clicks": 148,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-05",
+      "dayIndex": 79,
+      "channel": "paid_social",
+      "spend": 883,
+      "impressions": 12800,
+      "clicks": 152,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-06",
+      "dayIndex": 80,
+      "channel": "paid_social",
+      "spend": 524,
+      "impressions": 7694,
+      "clicks": 89,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-07",
+      "dayIndex": 81,
+      "channel": "paid_social",
+      "spend": 544,
+      "impressions": 7970,
+      "clicks": 93,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-08",
+      "dayIndex": 82,
+      "channel": "paid_social",
+      "spend": 875,
+      "impressions": 12149,
+      "clicks": 147,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-09",
+      "dayIndex": 83,
+      "channel": "paid_social",
+      "spend": 866,
+      "impressions": 12138,
+      "clicks": 146,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-10",
+      "dayIndex": 84,
+      "channel": "paid_social",
+      "spend": 831,
+      "impressions": 11216,
+      "clicks": 138,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-11",
+      "dayIndex": 85,
+      "channel": "paid_social",
+      "spend": 807,
+      "impressions": 11123,
+      "clicks": 140,
+      "signups": 4,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-12",
+      "dayIndex": 86,
+      "channel": "paid_social",
+      "spend": 941,
+      "impressions": 12759,
+      "clicks": 154,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-06-13",
+      "dayIndex": 87,
+      "channel": "paid_social",
+      "spend": 588,
+      "impressions": 8581,
+      "clicks": 99,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-14",
+      "dayIndex": 88,
+      "channel": "paid_social",
+      "spend": 575,
+      "impressions": 8130,
+      "clicks": 93,
+      "signups": 3,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-15",
+      "dayIndex": 89,
+      "channel": "paid_social",
+      "spend": 840,
+      "impressions": 11024,
+      "clicks": 137,
+      "signups": 5,
+      "qualified": 2
+    },
+    {
+      "date": "2026-03-18",
+      "dayIndex": 0,
+      "channel": "content_seo",
+      "spend": 204,
+      "impressions": 2127,
+      "clicks": 177,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-19",
+      "dayIndex": 1,
+      "channel": "content_seo",
+      "spend": 219,
+      "impressions": 2404,
+      "clicks": 190,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-20",
+      "dayIndex": 2,
+      "channel": "content_seo",
+      "spend": 222,
+      "impressions": 2394,
+      "clicks": 183,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-21",
+      "dayIndex": 3,
+      "channel": "content_seo",
+      "spend": 164,
+      "impressions": 1771,
+      "clicks": 142,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-22",
+      "dayIndex": 4,
+      "channel": "content_seo",
+      "spend": 161,
+      "impressions": 1689,
+      "clicks": 134,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-23",
+      "dayIndex": 5,
+      "channel": "content_seo",
+      "spend": 207,
+      "impressions": 2129,
+      "clicks": 175,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-24",
+      "dayIndex": 6,
+      "channel": "content_seo",
+      "spend": 231,
+      "impressions": 2424,
+      "clicks": 191,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-25",
+      "dayIndex": 7,
+      "channel": "content_seo",
+      "spend": 207,
+      "impressions": 2149,
+      "clicks": 166,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-26",
+      "dayIndex": 8,
+      "channel": "content_seo",
+      "spend": 219,
+      "impressions": 2276,
+      "clicks": 190,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-27",
+      "dayIndex": 9,
+      "channel": "content_seo",
+      "spend": 210,
+      "impressions": 2208,
+      "clicks": 178,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-28",
+      "dayIndex": 10,
+      "channel": "content_seo",
+      "spend": 176,
+      "impressions": 1799,
+      "clicks": 147,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-29",
+      "dayIndex": 11,
+      "channel": "content_seo",
+      "spend": 158,
+      "impressions": 1505,
+      "clicks": 125,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-30",
+      "dayIndex": 12,
+      "channel": "content_seo",
+      "spend": 211,
+      "impressions": 2206,
+      "clicks": 175,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-31",
+      "dayIndex": 13,
+      "channel": "content_seo",
+      "spend": 225,
+      "impressions": 2456,
+      "clicks": 193,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-01",
+      "dayIndex": 14,
+      "channel": "content_seo",
+      "spend": 207,
+      "impressions": 2160,
+      "clicks": 165,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-02",
+      "dayIndex": 15,
+      "channel": "content_seo",
+      "spend": 211,
+      "impressions": 2228,
+      "clicks": 184,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-03",
+      "dayIndex": 16,
+      "channel": "content_seo",
+      "spend": 217,
+      "impressions": 2421,
+      "clicks": 189,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-04",
+      "dayIndex": 17,
+      "channel": "content_seo",
+      "spend": 170,
+      "impressions": 1790,
+      "clicks": 147,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-05",
+      "dayIndex": 18,
+      "channel": "content_seo",
+      "spend": 158,
+      "impressions": 1734,
+      "clicks": 136,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-06",
+      "dayIndex": 19,
+      "channel": "content_seo",
+      "spend": 228,
+      "impressions": 2450,
+      "clicks": 187,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-07",
+      "dayIndex": 20,
+      "channel": "content_seo",
+      "spend": 231,
+      "impressions": 2444,
+      "clicks": 190,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-08",
+      "dayIndex": 21,
+      "channel": "content_seo",
+      "spend": 218,
+      "impressions": 2268,
+      "clicks": 174,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-09",
+      "dayIndex": 22,
+      "channel": "content_seo",
+      "spend": 207,
+      "impressions": 1960,
+      "clicks": 164,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-10",
+      "dayIndex": 23,
+      "channel": "content_seo",
+      "spend": 213,
+      "impressions": 2363,
+      "clicks": 186,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-11",
+      "dayIndex": 24,
+      "channel": "content_seo",
+      "spend": 166,
+      "impressions": 1668,
+      "clicks": 132,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-12",
+      "dayIndex": 25,
+      "channel": "content_seo",
+      "spend": 170,
+      "impressions": 1823,
+      "clicks": 140,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-13",
+      "dayIndex": 26,
+      "channel": "content_seo",
+      "spend": 233,
+      "impressions": 2295,
+      "clicks": 191,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-14",
+      "dayIndex": 27,
+      "channel": "content_seo",
+      "spend": 211,
+      "impressions": 2085,
+      "clicks": 175,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-15",
+      "dayIndex": 28,
+      "channel": "content_seo",
+      "spend": 237,
+      "impressions": 2640,
+      "clicks": 202,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-16",
+      "dayIndex": 29,
+      "channel": "content_seo",
+      "spend": 232,
+      "impressions": 2449,
+      "clicks": 197,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-17",
+      "dayIndex": 30,
+      "channel": "content_seo",
+      "spend": 219,
+      "impressions": 2457,
+      "clicks": 190,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-18",
+      "dayIndex": 31,
+      "channel": "content_seo",
+      "spend": 177,
+      "impressions": 1868,
+      "clicks": 153,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-19",
+      "dayIndex": 32,
+      "channel": "content_seo",
+      "spend": 161,
+      "impressions": 1685,
+      "clicks": 134,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-20",
+      "dayIndex": 33,
+      "channel": "content_seo",
+      "spend": 206,
+      "impressions": 2126,
+      "clicks": 179,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-21",
+      "dayIndex": 34,
+      "channel": "content_seo",
+      "spend": 233,
+      "impressions": 2396,
+      "clicks": 197,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-22",
+      "dayIndex": 35,
+      "channel": "content_seo",
+      "spend": 239,
+      "impressions": 2430,
+      "clicks": 191,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-23",
+      "dayIndex": 36,
+      "channel": "content_seo",
+      "spend": 238,
+      "impressions": 2544,
+      "clicks": 196,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-24",
+      "dayIndex": 37,
+      "channel": "content_seo",
+      "spend": 216,
+      "impressions": 2331,
+      "clicks": 178,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-25",
+      "dayIndex": 38,
+      "channel": "content_seo",
+      "spend": 160,
+      "impressions": 1743,
+      "clicks": 136,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-26",
+      "dayIndex": 39,
+      "channel": "content_seo",
+      "spend": 167,
+      "impressions": 1772,
+      "clicks": 138,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-27",
+      "dayIndex": 40,
+      "channel": "content_seo",
+      "spend": 236,
+      "impressions": 2427,
+      "clicks": 197,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-28",
+      "dayIndex": 41,
+      "channel": "content_seo",
+      "spend": 237,
+      "impressions": 2400,
+      "clicks": 193,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-29",
+      "dayIndex": 42,
+      "channel": "content_seo",
+      "spend": 220,
+      "impressions": 2311,
+      "clicks": 182,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-30",
+      "dayIndex": 43,
+      "channel": "content_seo",
+      "spend": 232,
+      "impressions": 2456,
+      "clicks": 199,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-01",
+      "dayIndex": 44,
+      "channel": "content_seo",
+      "spend": 214,
+      "impressions": 2129,
+      "clicks": 170,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-02",
+      "dayIndex": 45,
+      "channel": "content_seo",
+      "spend": 169,
+      "impressions": 1666,
+      "clicks": 140,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-03",
+      "dayIndex": 46,
+      "channel": "content_seo",
+      "spend": 167,
+      "impressions": 1614,
+      "clicks": 134,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-04",
+      "dayIndex": 47,
+      "channel": "content_seo",
+      "spend": 240,
+      "impressions": 2511,
+      "clicks": 197,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-05",
+      "dayIndex": 48,
+      "channel": "content_seo",
+      "spend": 234,
+      "impressions": 2409,
+      "clicks": 190,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-06",
+      "dayIndex": 49,
+      "channel": "content_seo",
+      "spend": 243,
+      "impressions": 2348,
+      "clicks": 193,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-07",
+      "dayIndex": 50,
+      "channel": "content_seo",
+      "spend": 231,
+      "impressions": 2287,
+      "clicks": 186,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-08",
+      "dayIndex": 51,
+      "channel": "content_seo",
+      "spend": 211,
+      "impressions": 2142,
+      "clicks": 168,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-09",
+      "dayIndex": 52,
+      "channel": "content_seo",
+      "spend": 175,
+      "impressions": 1833,
+      "clicks": 148,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-10",
+      "dayIndex": 53,
+      "channel": "content_seo",
+      "spend": 189,
+      "impressions": 1918,
+      "clicks": 153,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-11",
+      "dayIndex": 54,
+      "channel": "content_seo",
+      "spend": 241,
+      "impressions": 2503,
+      "clicks": 199,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-12",
+      "dayIndex": 55,
+      "channel": "content_seo",
+      "spend": 234,
+      "impressions": 2533,
+      "clicks": 197,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-13",
+      "dayIndex": 56,
+      "channel": "content_seo",
+      "spend": 231,
+      "impressions": 2437,
+      "clicks": 198,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-14",
+      "dayIndex": 57,
+      "channel": "content_seo",
+      "spend": 235,
+      "impressions": 2372,
+      "clicks": 190,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-15",
+      "dayIndex": 58,
+      "channel": "content_seo",
+      "spend": 221,
+      "impressions": 2321,
+      "clicks": 184,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-16",
+      "dayIndex": 59,
+      "channel": "content_seo",
+      "spend": 178,
+      "impressions": 1995,
+      "clicks": 155,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-17",
+      "dayIndex": 60,
+      "channel": "content_seo",
+      "spend": 168,
+      "impressions": 1719,
+      "clicks": 135,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-18",
+      "dayIndex": 61,
+      "channel": "content_seo",
+      "spend": 230,
+      "impressions": 2283,
+      "clicks": 183,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-19",
+      "dayIndex": 62,
+      "channel": "content_seo",
+      "spend": 225,
+      "impressions": 2481,
+      "clicks": 192,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-20",
+      "dayIndex": 63,
+      "channel": "content_seo",
+      "spend": 230,
+      "impressions": 2355,
+      "clicks": 198,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-21",
+      "dayIndex": 64,
+      "channel": "content_seo",
+      "spend": 246,
+      "impressions": 2592,
+      "clicks": 204,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-22",
+      "dayIndex": 65,
+      "channel": "content_seo",
+      "spend": 226,
+      "impressions": 2151,
+      "clicks": 181,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-23",
+      "dayIndex": 66,
+      "channel": "content_seo",
+      "spend": 168,
+      "impressions": 1810,
+      "clicks": 138,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-24",
+      "dayIndex": 67,
+      "channel": "content_seo",
+      "spend": 167,
+      "impressions": 1646,
+      "clicks": 135,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-25",
+      "dayIndex": 68,
+      "channel": "content_seo",
+      "spend": 219,
+      "impressions": 2161,
+      "clicks": 177,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-26",
+      "dayIndex": 69,
+      "channel": "content_seo",
+      "spend": 223,
+      "impressions": 2284,
+      "clicks": 188,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-27",
+      "dayIndex": 70,
+      "channel": "content_seo",
+      "spend": 228,
+      "impressions": 2270,
+      "clicks": 181,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-28",
+      "dayIndex": 71,
+      "channel": "content_seo",
+      "spend": 253,
+      "impressions": 2621,
+      "clicks": 220,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-29",
+      "dayIndex": 72,
+      "channel": "content_seo",
+      "spend": 227,
+      "impressions": 2390,
+      "clicks": 184,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-30",
+      "dayIndex": 73,
+      "channel": "content_seo",
+      "spend": 182,
+      "impressions": 1829,
+      "clicks": 154,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-31",
+      "dayIndex": 74,
+      "channel": "content_seo",
+      "spend": 175,
+      "impressions": 1726,
+      "clicks": 139,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-01",
+      "dayIndex": 75,
+      "channel": "content_seo",
+      "spend": 220,
+      "impressions": 2358,
+      "clicks": 192,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-02",
+      "dayIndex": 76,
+      "channel": "content_seo",
+      "spend": 224,
+      "impressions": 2497,
+      "clicks": 196,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-03",
+      "dayIndex": 77,
+      "channel": "content_seo",
+      "spend": 244,
+      "impressions": 2510,
+      "clicks": 210,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-04",
+      "dayIndex": 78,
+      "channel": "content_seo",
+      "spend": 237,
+      "impressions": 2435,
+      "clicks": 198,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-05",
+      "dayIndex": 79,
+      "channel": "content_seo",
+      "spend": 226,
+      "impressions": 2410,
+      "clicks": 188,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-06",
+      "dayIndex": 80,
+      "channel": "content_seo",
+      "spend": 170,
+      "impressions": 1928,
+      "clicks": 147,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-07",
+      "dayIndex": 81,
+      "channel": "content_seo",
+      "spend": 180,
+      "impressions": 1880,
+      "clicks": 149,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-08",
+      "dayIndex": 82,
+      "channel": "content_seo",
+      "spend": 235,
+      "impressions": 2498,
+      "clicks": 191,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-09",
+      "dayIndex": 83,
+      "channel": "content_seo",
+      "spend": 227,
+      "impressions": 2458,
+      "clicks": 191,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-10",
+      "dayIndex": 84,
+      "channel": "content_seo",
+      "spend": 227,
+      "impressions": 2492,
+      "clicks": 198,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-11",
+      "dayIndex": 85,
+      "channel": "content_seo",
+      "spend": 238,
+      "impressions": 2633,
+      "clicks": 203,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-12",
+      "dayIndex": 86,
+      "channel": "content_seo",
+      "spend": 224,
+      "impressions": 2262,
+      "clicks": 186,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-13",
+      "dayIndex": 87,
+      "channel": "content_seo",
+      "spend": 172,
+      "impressions": 1910,
+      "clicks": 147,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-14",
+      "dayIndex": 88,
+      "channel": "content_seo",
+      "spend": 188,
+      "impressions": 1911,
+      "clicks": 150,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-15",
+      "dayIndex": 89,
+      "channel": "content_seo",
+      "spend": 254,
+      "impressions": 2596,
+      "clicks": 204,
+      "signups": 2,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-18",
+      "dayIndex": 0,
+      "channel": "lifecycle_email",
+      "spend": 66,
+      "impressions": 1056,
+      "clicks": 231,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-19",
+      "dayIndex": 1,
+      "channel": "lifecycle_email",
+      "spend": 76,
+      "impressions": 1218,
+      "clicks": 258,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-20",
+      "dayIndex": 2,
+      "channel": "lifecycle_email",
+      "spend": 75,
+      "impressions": 1086,
+      "clicks": 246,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-21",
+      "dayIndex": 3,
+      "channel": "lifecycle_email",
+      "spend": 58,
+      "impressions": 850,
+      "clicks": 195,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-22",
+      "dayIndex": 4,
+      "channel": "lifecycle_email",
+      "spend": 57,
+      "impressions": 814,
+      "clicks": 182,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-23",
+      "dayIndex": 5,
+      "channel": "lifecycle_email",
+      "spend": 67,
+      "impressions": 945,
+      "clicks": 217,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-24",
+      "dayIndex": 6,
+      "channel": "lifecycle_email",
+      "spend": 76,
+      "impressions": 1137,
+      "clicks": 241,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-25",
+      "dayIndex": 7,
+      "channel": "lifecycle_email",
+      "spend": 67,
+      "impressions": 1035,
+      "clicks": 229,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-26",
+      "dayIndex": 8,
+      "channel": "lifecycle_email",
+      "spend": 74,
+      "impressions": 1122,
+      "clicks": 239,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-27",
+      "dayIndex": 9,
+      "channel": "lifecycle_email",
+      "spend": 70,
+      "impressions": 1110,
+      "clicks": 242,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-28",
+      "dayIndex": 10,
+      "channel": "lifecycle_email",
+      "spend": 52,
+      "impressions": 814,
+      "clicks": 180,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-29",
+      "dayIndex": 11,
+      "channel": "lifecycle_email",
+      "spend": 54,
+      "impressions": 760,
+      "clicks": 172,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-30",
+      "dayIndex": 12,
+      "channel": "lifecycle_email",
+      "spend": 71,
+      "impressions": 1035,
+      "clicks": 230,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-31",
+      "dayIndex": 13,
+      "channel": "lifecycle_email",
+      "spend": 72,
+      "impressions": 1074,
+      "clicks": 241,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-01",
+      "dayIndex": 14,
+      "channel": "lifecycle_email",
+      "spend": 68,
+      "impressions": 1079,
+      "clicks": 231,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-02",
+      "dayIndex": 15,
+      "channel": "lifecycle_email",
+      "spend": 74,
+      "impressions": 1176,
+      "clicks": 248,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-03",
+      "dayIndex": 16,
+      "channel": "lifecycle_email",
+      "spend": 74,
+      "impressions": 1093,
+      "clicks": 244,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-04",
+      "dayIndex": 17,
+      "channel": "lifecycle_email",
+      "spend": 57,
+      "impressions": 861,
+      "clicks": 191,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-05",
+      "dayIndex": 18,
+      "channel": "lifecycle_email",
+      "spend": 56,
+      "impressions": 880,
+      "clicks": 186,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-06",
+      "dayIndex": 19,
+      "channel": "lifecycle_email",
+      "spend": 72,
+      "impressions": 1141,
+      "clicks": 244,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-07",
+      "dayIndex": 20,
+      "channel": "lifecycle_email",
+      "spend": 73,
+      "impressions": 1091,
+      "clicks": 236,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-08",
+      "dayIndex": 21,
+      "channel": "lifecycle_email",
+      "spend": 74,
+      "impressions": 1087,
+      "clicks": 246,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-09",
+      "dayIndex": 22,
+      "channel": "lifecycle_email",
+      "spend": 71,
+      "impressions": 1062,
+      "clicks": 230,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-10",
+      "dayIndex": 23,
+      "channel": "lifecycle_email",
+      "spend": 75,
+      "impressions": 1219,
+      "clicks": 262,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-11",
+      "dayIndex": 24,
+      "channel": "lifecycle_email",
+      "spend": 54,
+      "impressions": 798,
+      "clicks": 173,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-12",
+      "dayIndex": 25,
+      "channel": "lifecycle_email",
+      "spend": 53,
+      "impressions": 793,
+      "clicks": 177,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-13",
+      "dayIndex": 26,
+      "channel": "lifecycle_email",
+      "spend": 79,
+      "impressions": 1226,
+      "clicks": 275,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-14",
+      "dayIndex": 27,
+      "channel": "lifecycle_email",
+      "spend": 78,
+      "impressions": 1159,
+      "clicks": 253,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-15",
+      "dayIndex": 28,
+      "channel": "lifecycle_email",
+      "spend": 70,
+      "impressions": 1068,
+      "clicks": 229,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-16",
+      "dayIndex": 29,
+      "channel": "lifecycle_email",
+      "spend": 73,
+      "impressions": 1077,
+      "clicks": 233,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-17",
+      "dayIndex": 30,
+      "channel": "lifecycle_email",
+      "spend": 79,
+      "impressions": 1163,
+      "clicks": 255,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-18",
+      "dayIndex": 31,
+      "channel": "lifecycle_email",
+      "spend": 58,
+      "impressions": 844,
+      "clicks": 188,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-19",
+      "dayIndex": 32,
+      "channel": "lifecycle_email",
+      "spend": 55,
+      "impressions": 821,
+      "clicks": 187,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-20",
+      "dayIndex": 33,
+      "channel": "lifecycle_email",
+      "spend": 76,
+      "impressions": 1146,
+      "clicks": 252,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-21",
+      "dayIndex": 34,
+      "channel": "lifecycle_email",
+      "spend": 77,
+      "impressions": 1074,
+      "clicks": 247,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-22",
+      "dayIndex": 35,
+      "channel": "lifecycle_email",
+      "spend": 69,
+      "impressions": 1058,
+      "clicks": 236,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-23",
+      "dayIndex": 36,
+      "channel": "lifecycle_email",
+      "spend": 78,
+      "impressions": 1191,
+      "clicks": 270,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-24",
+      "dayIndex": 37,
+      "channel": "lifecycle_email",
+      "spend": 72,
+      "impressions": 1169,
+      "clicks": 246,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-25",
+      "dayIndex": 38,
+      "channel": "lifecycle_email",
+      "spend": 62,
+      "impressions": 949,
+      "clicks": 211,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-26",
+      "dayIndex": 39,
+      "channel": "lifecycle_email",
+      "spend": 62,
+      "impressions": 1019,
+      "clicks": 214,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-27",
+      "dayIndex": 40,
+      "channel": "lifecycle_email",
+      "spend": 77,
+      "impressions": 1156,
+      "clicks": 265,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-28",
+      "dayIndex": 41,
+      "channel": "lifecycle_email",
+      "spend": 78,
+      "impressions": 1209,
+      "clicks": 263,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-29",
+      "dayIndex": 42,
+      "channel": "lifecycle_email",
+      "spend": 75,
+      "impressions": 1083,
+      "clicks": 249,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-30",
+      "dayIndex": 43,
+      "channel": "lifecycle_email",
+      "spend": 78,
+      "impressions": 1149,
+      "clicks": 256,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-01",
+      "dayIndex": 44,
+      "channel": "lifecycle_email",
+      "spend": 71,
+      "impressions": 1057,
+      "clicks": 235,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-02",
+      "dayIndex": 45,
+      "channel": "lifecycle_email",
+      "spend": 60,
+      "impressions": 921,
+      "clicks": 205,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-03",
+      "dayIndex": 46,
+      "channel": "lifecycle_email",
+      "spend": 55,
+      "impressions": 788,
+      "clicks": 177,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-04",
+      "dayIndex": 47,
+      "channel": "lifecycle_email",
+      "spend": 71,
+      "impressions": 1100,
+      "clicks": 233,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-05",
+      "dayIndex": 48,
+      "channel": "lifecycle_email",
+      "spend": 80,
+      "impressions": 1217,
+      "clicks": 273,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-06",
+      "dayIndex": 49,
+      "channel": "lifecycle_email",
+      "spend": 78,
+      "impressions": 1126,
+      "clicks": 253,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-07",
+      "dayIndex": 50,
+      "channel": "lifecycle_email",
+      "spend": 75,
+      "impressions": 1187,
+      "clicks": 261,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-08",
+      "dayIndex": 51,
+      "channel": "lifecycle_email",
+      "spend": 82,
+      "impressions": 1264,
+      "clicks": 274,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-09",
+      "dayIndex": 52,
+      "channel": "lifecycle_email",
+      "spend": 57,
+      "impressions": 882,
+      "clicks": 195,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-10",
+      "dayIndex": 53,
+      "channel": "lifecycle_email",
+      "spend": 58,
+      "impressions": 882,
+      "clicks": 186,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-11",
+      "dayIndex": 54,
+      "channel": "lifecycle_email",
+      "spend": 79,
+      "impressions": 1151,
+      "clicks": 264,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-12",
+      "dayIndex": 55,
+      "channel": "lifecycle_email",
+      "spend": 79,
+      "impressions": 1168,
+      "clicks": 262,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-13",
+      "dayIndex": 56,
+      "channel": "lifecycle_email",
+      "spend": 80,
+      "impressions": 1270,
+      "clicks": 277,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-14",
+      "dayIndex": 57,
+      "channel": "lifecycle_email",
+      "spend": 82,
+      "impressions": 1226,
+      "clicks": 272,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-15",
+      "dayIndex": 58,
+      "channel": "lifecycle_email",
+      "spend": 75,
+      "impressions": 1182,
+      "clicks": 259,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-16",
+      "dayIndex": 59,
+      "channel": "lifecycle_email",
+      "spend": 59,
+      "impressions": 878,
+      "clicks": 200,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-17",
+      "dayIndex": 60,
+      "channel": "lifecycle_email",
+      "spend": 58,
+      "impressions": 899,
+      "clicks": 199,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-18",
+      "dayIndex": 61,
+      "channel": "lifecycle_email",
+      "spend": 82,
+      "impressions": 1337,
+      "clicks": 285,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-19",
+      "dayIndex": 62,
+      "channel": "lifecycle_email",
+      "spend": 74,
+      "impressions": 1093,
+      "clicks": 248,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-20",
+      "dayIndex": 63,
+      "channel": "lifecycle_email",
+      "spend": 77,
+      "impressions": 1206,
+      "clicks": 262,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-21",
+      "dayIndex": 64,
+      "channel": "lifecycle_email",
+      "spend": 78,
+      "impressions": 1096,
+      "clicks": 250,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-22",
+      "dayIndex": 65,
+      "channel": "lifecycle_email",
+      "spend": 73,
+      "impressions": 1034,
+      "clicks": 234,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-23",
+      "dayIndex": 66,
+      "channel": "lifecycle_email",
+      "spend": 64,
+      "impressions": 944,
+      "clicks": 211,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-24",
+      "dayIndex": 67,
+      "channel": "lifecycle_email",
+      "spend": 58,
+      "impressions": 872,
+      "clicks": 193,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-25",
+      "dayIndex": 68,
+      "channel": "lifecycle_email",
+      "spend": 83,
+      "impressions": 1282,
+      "clicks": 278,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-26",
+      "dayIndex": 69,
+      "channel": "lifecycle_email",
+      "spend": 75,
+      "impressions": 1116,
+      "clicks": 253,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-27",
+      "dayIndex": 70,
+      "channel": "lifecycle_email",
+      "spend": 82,
+      "impressions": 1280,
+      "clicks": 276,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-28",
+      "dayIndex": 71,
+      "channel": "lifecycle_email",
+      "spend": 84,
+      "impressions": 1211,
+      "clicks": 266,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-29",
+      "dayIndex": 72,
+      "channel": "lifecycle_email",
+      "spend": 76,
+      "impressions": 1226,
+      "clicks": 265,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-30",
+      "dayIndex": 73,
+      "channel": "lifecycle_email",
+      "spend": 63,
+      "impressions": 971,
+      "clicks": 211,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-31",
+      "dayIndex": 74,
+      "channel": "lifecycle_email",
+      "spend": 61,
+      "impressions": 946,
+      "clicks": 213,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-01",
+      "dayIndex": 75,
+      "channel": "lifecycle_email",
+      "spend": 77,
+      "impressions": 1086,
+      "clicks": 247,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-02",
+      "dayIndex": 76,
+      "channel": "lifecycle_email",
+      "spend": 78,
+      "impressions": 1159,
+      "clicks": 268,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-03",
+      "dayIndex": 77,
+      "channel": "lifecycle_email",
+      "spend": 78,
+      "impressions": 1246,
+      "clicks": 269,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-04",
+      "dayIndex": 78,
+      "channel": "lifecycle_email",
+      "spend": 75,
+      "impressions": 1077,
+      "clicks": 242,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-05",
+      "dayIndex": 79,
+      "channel": "lifecycle_email",
+      "spend": 75,
+      "impressions": 1115,
+      "clicks": 240,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-06",
+      "dayIndex": 80,
+      "channel": "lifecycle_email",
+      "spend": 64,
+      "impressions": 1030,
+      "clicks": 223,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-07",
+      "dayIndex": 81,
+      "channel": "lifecycle_email",
+      "spend": 65,
+      "impressions": 940,
+      "clicks": 217,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-08",
+      "dayIndex": 82,
+      "channel": "lifecycle_email",
+      "spend": 82,
+      "impressions": 1237,
+      "clicks": 285,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-09",
+      "dayIndex": 83,
+      "channel": "lifecycle_email",
+      "spend": 77,
+      "impressions": 1158,
+      "clicks": 247,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-10",
+      "dayIndex": 84,
+      "channel": "lifecycle_email",
+      "spend": 83,
+      "impressions": 1275,
+      "clicks": 285,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-11",
+      "dayIndex": 85,
+      "channel": "lifecycle_email",
+      "spend": 80,
+      "impressions": 1183,
+      "clicks": 270,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-12",
+      "dayIndex": 86,
+      "channel": "lifecycle_email",
+      "spend": 81,
+      "impressions": 1141,
+      "clicks": 258,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-13",
+      "dayIndex": 87,
+      "channel": "lifecycle_email",
+      "spend": 64,
+      "impressions": 991,
+      "clicks": 215,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-14",
+      "dayIndex": 88,
+      "channel": "lifecycle_email",
+      "spend": 57,
+      "impressions": 858,
+      "clicks": 192,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-15",
+      "dayIndex": 89,
+      "channel": "lifecycle_email",
+      "spend": 83,
+      "impressions": 1247,
+      "clicks": 269,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-18",
+      "dayIndex": 0,
+      "channel": "partnerships",
+      "spend": 305,
+      "impressions": 818,
+      "clicks": 25,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-19",
+      "dayIndex": 1,
+      "channel": "partnerships",
+      "spend": 326,
+      "impressions": 919,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-20",
+      "dayIndex": 2,
+      "channel": "partnerships",
+      "spend": 301,
+      "impressions": 855,
+      "clicks": 26,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-21",
+      "dayIndex": 3,
+      "channel": "partnerships",
+      "spend": 255,
+      "impressions": 726,
+      "clicks": 22,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-22",
+      "dayIndex": 4,
+      "channel": "partnerships",
+      "spend": 232,
+      "impressions": 632,
+      "clicks": 19,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-23",
+      "dayIndex": 5,
+      "channel": "partnerships",
+      "spend": 306,
+      "impressions": 827,
+      "clicks": 24,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-24",
+      "dayIndex": 6,
+      "channel": "partnerships",
+      "spend": 329,
+      "impressions": 890,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-25",
+      "dayIndex": 7,
+      "channel": "partnerships",
+      "spend": 311,
+      "impressions": 826,
+      "clicks": 26,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-26",
+      "dayIndex": 8,
+      "channel": "partnerships",
+      "spend": 337,
+      "impressions": 932,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-27",
+      "dayIndex": 9,
+      "channel": "partnerships",
+      "spend": 310,
+      "impressions": 881,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-28",
+      "dayIndex": 10,
+      "channel": "partnerships",
+      "spend": 232,
+      "impressions": 684,
+      "clicks": 20,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-29",
+      "dayIndex": 11,
+      "channel": "partnerships",
+      "spend": 256,
+      "impressions": 709,
+      "clicks": 21,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-30",
+      "dayIndex": 12,
+      "channel": "partnerships",
+      "spend": 301,
+      "impressions": 816,
+      "clicks": 24,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-03-31",
+      "dayIndex": 13,
+      "channel": "partnerships",
+      "spend": 347,
+      "impressions": 992,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-01",
+      "dayIndex": 14,
+      "channel": "partnerships",
+      "spend": 340,
+      "impressions": 937,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-02",
+      "dayIndex": 15,
+      "channel": "partnerships",
+      "spend": 308,
+      "impressions": 794,
+      "clicks": 25,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-03",
+      "dayIndex": 16,
+      "channel": "partnerships",
+      "spend": 313,
+      "impressions": 810,
+      "clicks": 25,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-04",
+      "dayIndex": 17,
+      "channel": "partnerships",
+      "spend": 249,
+      "impressions": 695,
+      "clicks": 20,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-05",
+      "dayIndex": 18,
+      "channel": "partnerships",
+      "spend": 254,
+      "impressions": 668,
+      "clicks": 20,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-06",
+      "dayIndex": 19,
+      "channel": "partnerships",
+      "spend": 304,
+      "impressions": 833,
+      "clicks": 24,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-07",
+      "dayIndex": 20,
+      "channel": "partnerships",
+      "spend": 327,
+      "impressions": 900,
+      "clicks": 26,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-08",
+      "dayIndex": 21,
+      "channel": "partnerships",
+      "spend": 316,
+      "impressions": 886,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-09",
+      "dayIndex": 22,
+      "channel": "partnerships",
+      "spend": 355,
+      "impressions": 925,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-10",
+      "dayIndex": 23,
+      "channel": "partnerships",
+      "spend": 356,
+      "impressions": 919,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-11",
+      "dayIndex": 24,
+      "channel": "partnerships",
+      "spend": 270,
+      "impressions": 756,
+      "clicks": 23,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-12",
+      "dayIndex": 25,
+      "channel": "partnerships",
+      "spend": 250,
+      "impressions": 703,
+      "clicks": 21,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-13",
+      "dayIndex": 26,
+      "channel": "partnerships",
+      "spend": 337,
+      "impressions": 879,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-14",
+      "dayIndex": 27,
+      "channel": "partnerships",
+      "spend": 338,
+      "impressions": 859,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-15",
+      "dayIndex": 28,
+      "channel": "partnerships",
+      "spend": 340,
+      "impressions": 944,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-16",
+      "dayIndex": 29,
+      "channel": "partnerships",
+      "spend": 347,
+      "impressions": 982,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-17",
+      "dayIndex": 30,
+      "channel": "partnerships",
+      "spend": 342,
+      "impressions": 876,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-18",
+      "dayIndex": 31,
+      "channel": "partnerships",
+      "spend": 266,
+      "impressions": 700,
+      "clicks": 22,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-19",
+      "dayIndex": 32,
+      "channel": "partnerships",
+      "spend": 276,
+      "impressions": 818,
+      "clicks": 24,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-20",
+      "dayIndex": 33,
+      "channel": "partnerships",
+      "spend": 320,
+      "impressions": 874,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-21",
+      "dayIndex": 34,
+      "channel": "partnerships",
+      "spend": 320,
+      "impressions": 927,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-22",
+      "dayIndex": 35,
+      "channel": "partnerships",
+      "spend": 351,
+      "impressions": 1045,
+      "clicks": 30,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-23",
+      "dayIndex": 36,
+      "channel": "partnerships",
+      "spend": 316,
+      "impressions": 846,
+      "clicks": 25,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-24",
+      "dayIndex": 37,
+      "channel": "partnerships",
+      "spend": 327,
+      "impressions": 925,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-25",
+      "dayIndex": 38,
+      "channel": "partnerships",
+      "spend": 256,
+      "impressions": 694,
+      "clicks": 21,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-26",
+      "dayIndex": 39,
+      "channel": "partnerships",
+      "spend": 267,
+      "impressions": 721,
+      "clicks": 22,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-27",
+      "dayIndex": 40,
+      "channel": "partnerships",
+      "spend": 321,
+      "impressions": 916,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-28",
+      "dayIndex": 41,
+      "channel": "partnerships",
+      "spend": 347,
+      "impressions": 946,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-29",
+      "dayIndex": 42,
+      "channel": "partnerships",
+      "spend": 342,
+      "impressions": 1024,
+      "clicks": 30,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-04-30",
+      "dayIndex": 43,
+      "channel": "partnerships",
+      "spend": 350,
+      "impressions": 923,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-01",
+      "dayIndex": 44,
+      "channel": "partnerships",
+      "spend": 325,
+      "impressions": 914,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-02",
+      "dayIndex": 45,
+      "channel": "partnerships",
+      "spend": 274,
+      "impressions": 761,
+      "clicks": 24,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-03",
+      "dayIndex": 46,
+      "channel": "partnerships",
+      "spend": 260,
+      "impressions": 683,
+      "clicks": 21,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-04",
+      "dayIndex": 47,
+      "channel": "partnerships",
+      "spend": 345,
+      "impressions": 924,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-05",
+      "dayIndex": 48,
+      "channel": "partnerships",
+      "spend": 347,
+      "impressions": 957,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-06",
+      "dayIndex": 49,
+      "channel": "partnerships",
+      "spend": 322,
+      "impressions": 832,
+      "clicks": 26,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-07",
+      "dayIndex": 50,
+      "channel": "partnerships",
+      "spend": 364,
+      "impressions": 964,
+      "clicks": 30,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-08",
+      "dayIndex": 51,
+      "channel": "partnerships",
+      "spend": 354,
+      "impressions": 938,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-09",
+      "dayIndex": 52,
+      "channel": "partnerships",
+      "spend": 252,
+      "impressions": 678,
+      "clicks": 21,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-10",
+      "dayIndex": 53,
+      "channel": "partnerships",
+      "spend": 274,
+      "impressions": 764,
+      "clicks": 22,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-11",
+      "dayIndex": 54,
+      "channel": "partnerships",
+      "spend": 334,
+      "impressions": 959,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-12",
+      "dayIndex": 55,
+      "channel": "partnerships",
+      "spend": 345,
+      "impressions": 923,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-13",
+      "dayIndex": 56,
+      "channel": "partnerships",
+      "spend": 372,
+      "impressions": 999,
+      "clicks": 30,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-14",
+      "dayIndex": 57,
+      "channel": "partnerships",
+      "spend": 354,
+      "impressions": 938,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-15",
+      "dayIndex": 58,
+      "channel": "partnerships",
+      "spend": 341,
+      "impressions": 911,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-16",
+      "dayIndex": 59,
+      "channel": "partnerships",
+      "spend": 247,
+      "impressions": 690,
+      "clicks": 21,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-17",
+      "dayIndex": 60,
+      "channel": "partnerships",
+      "spend": 273,
+      "impressions": 792,
+      "clicks": 23,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-18",
+      "dayIndex": 61,
+      "channel": "partnerships",
+      "spend": 358,
+      "impressions": 971,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-19",
+      "dayIndex": 62,
+      "channel": "partnerships",
+      "spend": 346,
+      "impressions": 893,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-20",
+      "dayIndex": 63,
+      "channel": "partnerships",
+      "spend": 372,
+      "impressions": 1048,
+      "clicks": 31,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-21",
+      "dayIndex": 64,
+      "channel": "partnerships",
+      "spend": 336,
+      "impressions": 1002,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-22",
+      "dayIndex": 65,
+      "channel": "partnerships",
+      "spend": 352,
+      "impressions": 1025,
+      "clicks": 30,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-23",
+      "dayIndex": 66,
+      "channel": "partnerships",
+      "spend": 253,
+      "impressions": 680,
+      "clicks": 21,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-24",
+      "dayIndex": 67,
+      "channel": "partnerships",
+      "spend": 278,
+      "impressions": 830,
+      "clicks": 24,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-25",
+      "dayIndex": 68,
+      "channel": "partnerships",
+      "spend": 352,
+      "impressions": 906,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-26",
+      "dayIndex": 69,
+      "channel": "partnerships",
+      "spend": 324,
+      "impressions": 909,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-27",
+      "dayIndex": 70,
+      "channel": "partnerships",
+      "spend": 375,
+      "impressions": 1100,
+      "clicks": 32,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-28",
+      "dayIndex": 71,
+      "channel": "partnerships",
+      "spend": 361,
+      "impressions": 1060,
+      "clicks": 31,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-29",
+      "dayIndex": 72,
+      "channel": "partnerships",
+      "spend": 359,
+      "impressions": 1005,
+      "clicks": 31,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-30",
+      "dayIndex": 73,
+      "channel": "partnerships",
+      "spend": 290,
+      "impressions": 761,
+      "clicks": 23,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-05-31",
+      "dayIndex": 74,
+      "channel": "partnerships",
+      "spend": 281,
+      "impressions": 767,
+      "clicks": 23,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-01",
+      "dayIndex": 75,
+      "channel": "partnerships",
+      "spend": 327,
+      "impressions": 889,
+      "clicks": 27,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-02",
+      "dayIndex": 76,
+      "channel": "partnerships",
+      "spend": 359,
+      "impressions": 1026,
+      "clicks": 31,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-03",
+      "dayIndex": 77,
+      "channel": "partnerships",
+      "spend": 348,
+      "impressions": 981,
+      "clicks": 30,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-04",
+      "dayIndex": 78,
+      "channel": "partnerships",
+      "spend": 344,
+      "impressions": 939,
+      "clicks": 28,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-05",
+      "dayIndex": 79,
+      "channel": "partnerships",
+      "spend": 356,
+      "impressions": 1074,
+      "clicks": 31,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-06",
+      "dayIndex": 80,
+      "channel": "partnerships",
+      "spend": 263,
+      "impressions": 702,
+      "clicks": 22,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-07",
+      "dayIndex": 81,
+      "channel": "partnerships",
+      "spend": 290,
+      "impressions": 855,
+      "clicks": 25,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-08",
+      "dayIndex": 82,
+      "channel": "partnerships",
+      "spend": 342,
+      "impressions": 944,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-09",
+      "dayIndex": 83,
+      "channel": "partnerships",
+      "spend": 359,
+      "impressions": 972,
+      "clicks": 29,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-10",
+      "dayIndex": 84,
+      "channel": "partnerships",
+      "spend": 384,
+      "impressions": 1064,
+      "clicks": 32,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-11",
+      "dayIndex": 85,
+      "channel": "partnerships",
+      "spend": 373,
+      "impressions": 1039,
+      "clicks": 31,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-12",
+      "dayIndex": 86,
+      "channel": "partnerships",
+      "spend": 383,
+      "impressions": 961,
+      "clicks": 30,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-13",
+      "dayIndex": 87,
+      "channel": "partnerships",
+      "spend": 294,
+      "impressions": 767,
+      "clicks": 24,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-14",
+      "dayIndex": 88,
+      "channel": "partnerships",
+      "spend": 282,
+      "impressions": 772,
+      "clicks": 23,
+      "signups": 1,
+      "qualified": 1
+    },
+    {
+      "date": "2026-06-15",
+      "dayIndex": 89,
+      "channel": "partnerships",
+      "spend": 359,
+      "impressions": 1022,
+      "clicks": 31,
+      "signups": 1,
+      "qualified": 1
+    }
+  ],
+  "segments": [
+    {
+      "key": "vc_backed",
+      "label": "VC-backed",
+      "ltv": 8500,
+      "share": 0.45,
+      "blurb": "Raised institutional capital; spend faster, higher balances, team seats."
+    },
+    {
+      "key": "bootstrapped",
+      "label": "Bootstrapped",
+      "ltv": 4200,
+      "share": 0.55,
+      "blurb": "Revenue-funded; price-sensitive, sticky, lower but durable balances."
+    }
+  ],
+  "competitors": [
+    {
+      "name": "Contoso Bank",
+      "angle": "Incumbent small-business bank",
+      "weakness": "Slow onboarding, branch-era UX, nothing startup-specific."
+    },
+    {
+      "name": "Fabrikam Financial",
+      "angle": "Neobank for SMBs",
+      "weakness": "No runway view or cap-table-aware features; generic SMB positioning."
+    },
+    {
+      "name": "Zava Capital",
+      "angle": "VC-adjacent fintech",
+      "weakness": "High fees and gated behind a VC introduction."
+    }
+  ],
+  "personas": [
+    {
+      "key": "founder",
+      "label": "Founder / CEO",
+      "role": "Economic buyer",
+      "jtbd": "Open an account in minutes, see runway in real time, move money without friction."
+    },
+    {
+      "key": "finance_lead",
+      "label": "Finance lead / Ops",
+      "role": "Champion & daily operator",
+      "jtbd": "Control spend, automate AP, and close the books faster."
+    }
+  ]
+}

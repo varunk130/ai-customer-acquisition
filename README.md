@@ -1,4 +1,8 @@
-# Beacon — an agentic acquisition engine
+<p align="center">
+  <img src="assets/hero.svg" alt="AI Customer Acquisition — an agentic acquisition engine. Five agents take a budget and a CAC target, allocate it across channels with real optimization, build the creative and lifecycle, then reallocate on week-1 results." width="100%" />
+</p>
+
+# AI Customer Acquisition — an agentic acquisition engine
 
 ![Next.js 14](https://img.shields.io/badge/Next.js-14-000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white) ![No API keys](https://img.shields.io/badge/API_keys-none-22c55e) ![Runs offline](https://img.shields.io/badge/runs-offline-8b5cf6) ![Deploy: Vercel](https://img.shields.io/badge/deploy-Vercel-000?logo=vercel&logoColor=white)
 
@@ -6,7 +10,7 @@
 
 > Give an operator a budget and a target. Beacon allocates it across channels, produces the creative, and projects CAC — then reallocates as results come in. And it shows its work.
 
-A standalone, production-quality demo of a **real in-app multi-agent runtime** for paid acquisition. Five named agents take a budget and a CAC target, split it across channels with real optimization, generate a full creative testing matrix and a lifecycle sequence, then reallocate the moment week-1 results land. It runs **completely offline**: no API keys, no external LLM calls, nothing to configure.
+A standalone, production-quality demo of a **real in-app multi-agent runtime** for paid acquisition (codename **Beacon**). Five named agents take a budget and a CAC target, split it across channels with real optimization, generate a full creative testing matrix and a lifecycle sequence, then reallocate the moment week-1 results land. It runs **completely offline**: no API keys, no external LLM calls, nothing to configure.
 
 **Stack:** Next.js 14 (App Router) · TypeScript · Tailwind · framer-motion · recharts · lucide-react · @faker-js/faker (seed only)
 

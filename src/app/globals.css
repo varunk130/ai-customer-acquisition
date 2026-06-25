@@ -1,0 +1,134 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+  }
+}
+
+body {
+  @apply bg-navy text-slate-200 font-sans antialiased;
+  background-image:
+    radial-gradient(64rem 44rem at 82% -10%, rgba(255, 194, 75, 0.1), transparent 60%),
+    radial-gradient(52rem 40rem at 6% 2%, rgba(122, 162, 255, 0.08), transparent 55%);
+  background-attachment: fixed;
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(to right, rgba(255, 255, 255, 0.035) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.035) 1px, transparent 1px);
+  background-size: 46px 46px;
+  -webkit-mask-image: radial-gradient(70% 60% at 50% 30%, black, transparent 100%);
+  mask-image: radial-gradient(70% 60% at 50% 30%, black, transparent 100%);
+}
+
+@layer components {
+  .container-px {
+    @apply mx-auto w-full max-w-6xl px-5 sm:px-8;
+  }
+
+  .panel {
+    @apply rounded-2xl border border-white/[0.07] bg-navy-800/70 shadow-panel backdrop-blur-sm;
+  }
+
+  .panel-quiet {
+    @apply rounded-xl border border-white/[0.06] bg-navy-700/50;
+  }
+
+  .eyebrow {
+    @apply font-mono text-[11px] uppercase tracking-[0.22em] text-slate-500;
+  }
+
+  .link-quiet {
+    @apply text-slate-400 underline-offset-4 transition-colors hover:text-beacon hover:underline;
+  }
+
+  .btn {
+    @apply inline-flex select-none items-center justify-center gap-2 rounded-lg px-4 py-2.5 text-sm font-medium transition-all duration-200 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-beacon/60 focus-visible:ring-offset-2 focus-visible:ring-offset-navy disabled:cursor-not-allowed disabled:opacity-50;
+  }
+
+  .btn-primary {
+    @apply btn bg-beacon text-navy-950 hover:bg-beacon-soft hover:shadow-beacon;
+  }
+
+  .btn-ghost {
+    @apply btn border border-white/10 bg-white/[0.02] text-slate-200 hover:border-white/20 hover:bg-white/[0.05];
+  }
+
+  .focusable {
+    @apply focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-beacon/60 focus-visible:ring-offset-2 focus-visible:ring-offset-navy;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.1);
+  border-radius: 999px;
+  border: 2px solid transparent;
+  background-clip: padding-box;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.18);
+  background-clip: padding-box;
+}
+
+::selection {
+  background: rgba(255, 194, 75, 0.28);
+  color: #fff;
+}
+
+/* range slider styling */
+input[type="range"] {
+  -webkit-appearance: none;
+  appearance: none;
+  height: 6px;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.1);
+  outline: none;
+}
+input[type="range"]::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  background: #ffc24b;
+  cursor: pointer;
+  border: 3px solid #0a0e1a;
+  box-shadow: 0 0 0 1px rgba(255, 194, 75, 0.5);
+}
+input[type="range"]::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 999px;
+  background: #ffc24b;
+  cursor: pointer;
+  border: 3px solid #0a0e1a;
+}
+input[type="range"]:focus-visible::-webkit-slider-thumb {
+  box-shadow: 0 0 0 3px rgba(255, 194, 75, 0.5);
+}

@@ -158,5 +158,14 @@ Everything downstream — allocation, CAC/payback, the agents, the sliders — i
 - **Accessibility:** keyboard navigable, visible focus, AA contrast, `prefers-reduced-motion` respected.
 - **Determinism:** the dataset, allocation, and week-1 simulation are seeded, so the demo reproduces exactly.
 
+---
+
+## Related apps
+
+Part of a five-app multi-agent showcase, all offline and key-free:
+
+- [ai-growth-os](https://github.com/varunk130/ai-growth-os) — **Compound**, a growth experiment engine (find → design → ship → learn)
+- [ai-revops](https://github.com/varunk130/ai-revops) — **Atlas**, GTM + Partnerships + RevOps into one Vertical Launch Plan
+
 Built by **Varun Kulkarni** · synthetic data · for an internal AI-upskilling showcase.
 

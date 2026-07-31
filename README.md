@@ -6,7 +6,7 @@
 
 ![Next.js 14](https://img.shields.io/badge/Next.js-14-000?logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6?logo=typescript&logoColor=white) ![No API keys](https://img.shields.io/badge/API_keys-none-22c55e) ![Runs offline](https://img.shields.io/badge/runs-offline-8b5cf6) ![Deploy: Vercel](https://img.shields.io/badge/deploy-Vercel-000?logo=vercel&logoColor=white)
 
-**Part of the [AI PM Agent Showcase](https://github.com/varunk130/ai-pm-portfolio)** — five standalone agentic apps · App 2 of 5.
+**Part of the [AI PM Agent Showcase](https://github.com/varunk130?tab=repositories)** — five standalone agentic apps · App 2 of 5.
 
 > Give an operator a budget and a target. Beacon allocates it across channels, produces the creative, and projects CAC — then reallocates as results come in. And it shows its work.
 

@@ -1,6 +1,6 @@
 # Beacon — 60–90s screen-recording shot list
 
-> Companion to the app **[README](./README.md)** · part of the **[AI PM Agent Showcase](../README.md)**.
+> Companion to the app **[README](./README.md)** · part of the **[AI PM Agent Showcase](https://github.com/varunk130?tab=repositories)**.
 
 Target **80s**. Record at 1440×950, dark UI, cursor visible. Let animations and the
 slider re-computation breathe.

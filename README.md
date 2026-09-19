@@ -37,6 +37,12 @@ Open **/demo** and hit **Run guided demo**, then drag the sliders. To regenerate
 npm run seed     # rewrites data/channels.json deterministically
 ```
 
+Check it (the same steps CI runs on every push and PR):
+
+```bash
+npm run lint && npm run typecheck && npm test
+```
+
 Build for production (Vercel-ready, **zero environment variables**):
 
 ```bash

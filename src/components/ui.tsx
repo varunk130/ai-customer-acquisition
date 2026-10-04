@@ -26,10 +26,6 @@ export function Section({ children, className = "", id }: { children: ReactNode;
   );
 }
 
-export function Panel({ children, className = "" }: { children: ReactNode; className?: string }) {
-  return <div className={`panel ${className}`}>{children}</div>;
-}
-
 export function Stat({ value, label, tone = "default" }: { value: ReactNode; label: ReactNode; tone?: "default" | "beacon" | "indigo" }) {
   const toneClass = tone === "beacon" ? "text-beacon" : tone === "indigo" ? "text-indigo2" : "text-white";
   return (

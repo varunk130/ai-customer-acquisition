@@ -4,10 +4,6 @@ export function djb2(str: string): number {
   return h >>> 0;
 }
 
-export function seededFraction(str: string): number {
-  return (djb2(str) % 100000) / 100000;
-}
-
 export function unique<T>(arr: T[]): T[] {
   return Array.from(new Set(arr));
 }

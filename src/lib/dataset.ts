@@ -16,14 +16,6 @@ export type {
   BeaconMeta,
 } from "./dataset-types";
 
-export function channelDaily(key: ChannelKey): ChannelDayRecord[] {
-  return beaconData.daily.filter((d) => d.channel === key);
-}
-
-export function channelOf(key: ChannelKey) {
-  return channels.find((c) => c.key === key)!;
-}
-
 // 90-day spend totals etc. for headline stats
 export function totals90() {
   return channels.reduce(

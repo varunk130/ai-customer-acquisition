@@ -144,6 +144,16 @@ configureModelAdapter(async (req) => {
 
 The seam reports a `source` (`curated-library` | `model`) that surfaces in the trace. **The app never requires this** and ships without it.
 
+To check whether an adapter is currently registered, use the companion accessor:
+
+```ts
+import { hasModelAdapter } from "@/lib/llm";
+
+if (hasModelAdapter()) {
+  // generation will route through the registered model
+}
+```
+
 ---
 
 ## Swap synthetic data for a real source

@@ -53,7 +53,7 @@ npm run build && npm start
 
 ## 60–90s spoken walkthrough script
 
-> "This is **Beacon** — an agentic acquisition engine. Give it a budget and a target, and it builds the plan, the creative, and reallocates as results come in. No API keys — it runs right here.
+> "This is **Beacon** — an agentic acquisition engine. Give it a budget and a target, and it builds the plan and the creative, then reallocates as results come in. No API keys — it runs right here.
 >
 > I'll type the brief: *'I have $50k this month to bring in tech-startup accounts. Build the plan and the creative.'* Watch the **Agent Trace**.
 >

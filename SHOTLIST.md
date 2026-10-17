@@ -13,9 +13,9 @@ slider re-computation breathe.
 | 4 | 0:17–0:33 | **Agent Trace (hero)** | Right pane animates: Channel Strategist → Creative Studio → Lifecycle Architect, with budget chips and tool calls. | "It water-fills $50k across channels by real CAC math, builds 14 ad concepts, and drafts the lifecycle." |
 | 5 | 0:33–0:42 | **Allocation dashboard** | Scroll to Budget allocation: stacked bar + table (spend, share, qual CAC, payback). | "A defensible budget — ~156 qualified signups at a $321 blended CAC." |
 | 6 | 0:42–0:52 | **Sliders (the proof it's real)** | Drag **budget** down to $20k — bars/table re-flow; drag **target CAC** to ~$350 — a 'held back' warning appears. | "Drag the sliders and the optimization re-runs live. Tighten the CAC target and Beacon refuses to overspend." |
-| 7 | 0:52–0:60 | **Creative matrix** | Flip two concept cards; pan the hero → platform variants row. | "Real headlines and body copy — and the hero expands into platform-native variants." |
-| 8 | 0:60–0:72 | **Simulate + reallocate** | Click **Simulate week 1**; Performance Analyst runs; before/after bars shift, 156 → 168. | "One week of results comes in. Beacon pulls budget off the underperformer onto the winners — same spend, more qualified signups." |
-| 9 | 0:72–0:80 | **Close / footer** | `/results` glance, then rest on the footer. | "Real budget math, real creative, a live reallocation. That's Beacon." |
+| 7 | 0:52–1:00 | **Creative matrix** | Flip two concept cards; pan the hero → platform variants row. | "Real headlines and body copy — and the hero expands into platform-native variants." |
+| 8 | 1:00–1:12 | **Simulate + reallocate** | Click **Simulate week 1**; Performance Analyst runs; before/after bars shift, 156 → 168. | "One week of results comes in. Beacon pulls budget off the underperformer onto the winners — same spend, more qualified signups." |
+| 9 | 1:12–1:20 | **Close / footer** | `/results` glance, then rest on the footer. | "Real budget math, real creative, a live reallocation. That's Beacon." |
 
 ### Capture tips
 - Before recording, hit **Reset** so the guided run starts at the default $50k / $650.
